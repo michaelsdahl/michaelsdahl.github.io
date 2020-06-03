@@ -23,37 +23,46 @@ linkedin_username: msdahl
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+# Additional icon links
+additional_links:
+- title: Medium
+  icon: fa-medium
+  url: https://medium.com/@dahleob
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
 # About Section
-# about_title: About Me
+# about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images
+    
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience
+# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# educaton_title: Education
-
-# Projects Section
-# projects_title: Projects
+# education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me
+# more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -61,3 +70,16 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
