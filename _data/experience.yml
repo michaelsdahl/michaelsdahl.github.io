@@ -1,25 +1,9 @@
 - layout: left
-company: Aarhus University
-link: mgmt.au.dk
-jobs:
-    - title: Professor, Deputy Head of Department
-     dates: January 2017 - Present
-    - title: Professor
-     dates: November 2015 - December 2016
-quote: >
+  company: Aalborg University
+  link: business.aau.dk
+  job_title: Job title
+  dates: January 2010 - October 2015
+  quote: >
    Short description of the company (optional)
-description: | # this will include new lines to allow paragraphs
-   Description of role
-
-- layout: left
-company: Aalborg University
-link: business.aau.dk
-jobs:
-  - title: Professor
-    dates: January 2010 - October 2015
-  - title: Associate Professor
-    dates: August 2007 - December 2009
-quote: >
- Short description of the company (optional)
-description: | # this will include new lines to allow paragraphs
-  Description of role
+  description: | # this will include new lines to allow paragraphs
+    Description of role
