@@ -1,6 +1,18 @@
 - layout: left
   company: Aalborg University
   link: business.aau.dk
+  jobs: 
+    - title: Professor
+      dates: January 2010 - October 2015
+    - title: Professor
+      dates: August 2007 - December 2009     
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+
+- layout: left
+  company: Aalborg University
+  link: business.aau.dk
   job_title: Professor
   dates: January 2010 - October 2015
   quote: 
