@@ -21,7 +21,7 @@ linkedin_username: msdahl
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: About me
 about_profile_image: images/profile_msd.jpg
 about_content: | # this will include new lines to allow paragraphs
   Text here
