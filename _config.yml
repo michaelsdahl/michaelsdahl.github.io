@@ -8,6 +8,9 @@ title: Professor, Board Member
 email: md@msdahl.com
 website: www.msdahl.com
 
+# Dark Mode (true/false/never)
+darkmode: false
+
 # Social links
 twitter_username: msdahl
 github_username:  michaelsdahl
