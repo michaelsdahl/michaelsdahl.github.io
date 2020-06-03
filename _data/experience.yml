@@ -15,7 +15,9 @@
     - title: Professor
       dates: January 2010 - October 2015
     - title: Associate Professor
-      dates: August 2007 - December 2009     
-  quote: 
+      dates: August 2007 - December 2009
+    - title: Assistant Professor
+      dates: February 2004 - July 2007     
+quote: 
   description: | # this will include new lines to allow paragraphs
     Description of role
