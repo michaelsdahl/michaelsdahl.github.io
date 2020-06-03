@@ -1,4 +1,12 @@
 - layout: left
+  name: CBS Executive
+  dates: 2019 - 2020
+  qualification: Board certification 
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    A few words
+
+- layout: left
   name: Aalborg University
   dates: 1999 - 2004
   qualification: PhD Economics
