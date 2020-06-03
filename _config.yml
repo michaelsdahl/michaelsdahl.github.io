@@ -29,10 +29,10 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
-# projects_title: Experience
+projects_title: Experience
 
 # Experience Section
-# experience_title: Full time employment
+experience_title: Employment
 
 # Education Section
 # educaton_title: Education
