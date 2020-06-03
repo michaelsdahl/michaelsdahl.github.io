@@ -1,10 +1,20 @@
 - layout: left
+  company: Aarhus University
+  link: mgmt.au.dk
+  jobs: 
+    - title: Professor
+      dates: November 2015 - July 2020
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+
+- layout: left
   company: Aalborg University
   link: business.aau.dk
   jobs: 
     - title: Professor
       dates: January 2010 - October 2015
-    - title: Professor
+    - title: Associate Professor
       dates: August 2007 - December 2009     
   quote: 
   description: | # this will include new lines to allow paragraphs
