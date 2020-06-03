@@ -1,5 +1,15 @@
 
 - layout: left
+  company: Aalborg University Business School
+  link: business.au.dk
+  jobs: 
+    - title: Professor
+      dates: August 2020 - present
+  quote: 
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+    
+- layout: left
   company: Aarhus University
   link: mgmt.au.dk
   jobs: 
